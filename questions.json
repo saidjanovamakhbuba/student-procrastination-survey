@@ -1,0 +1,202 @@
+[
+  {
+    "question": "How often do you postpone starting assignments until the deadline is very close?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "How motivated do you feel when beginning a new academic task?",
+    "options": [
+      {"text": "Very motivated", "score": 0},
+      {"text": "Mostly motivated", "score": 1},
+      {"text": "Somewhat motivated", "score": 2},
+      {"text": "Rarely motivated", "score": 3},
+      {"text": "Not motivated at all", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you get distracted by social media or entertainment instead of studying?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "When you sit down to study, how quickly do you actually begin working?",
+    "options": [
+      {"text": "Immediately", "score": 0},
+      {"text": "Within a few minutes", "score": 1},
+      {"text": "After 15-30 minutes", "score": 2},
+      {"text": "After more than an hour", "score": 3},
+      {"text": "I rarely manage to start", "score": 4}
+    ]
+  },
+  {
+    "question": "How much of your study time is spent \"mindlessly\" highlighting text without absorbing it?",
+    "options": [
+      {"text": "None", "score": 0},
+      {"text": "A small amount", "score": 1},
+      {"text": "Half of my study time", "score": 2},
+      {"text": "A significant amount", "score": 3},
+      {"text": "Most of my study time", "score": 4}
+    ]
+  },
+  {
+    "question": "To what extent do you feel that your current grades reflect your true potential?",
+    "options": [
+      {"text": "Fully reflect", "score": 0},
+      {"text": "Mostly reflect", "score": 1},
+      {"text": "Somehow reflect", "score": 2},
+      {"text": "Rarely reflect", "score": 3},
+      {"text": "Not at all", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you feel guilty about not studying when you should be?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "How do you feel when faced with a large or difficult academic task?",
+    "options": [
+      {"text": "Excited and ready", "score": 0},
+      {"text": "Calm and prepared", "score": 1},
+      {"text": "Slightly anxious but I manage", "score": 2},
+      {"text": "Overwhelmed and I delay it", "score": 3},
+      {"text": "I avoid it completely", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you complete assignments well before the deadline?",
+    "options": [
+      {"text": "Always", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you find yourself doing unrelated tasks (cleaning, browsing) instead of studying?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "How clearly do you understand your academic goals for this semester?",
+    "options": [
+      {"text": "Very clearly", "score": 0},
+      {"text": "Mostly clearly", "score": 1},
+      {"text": "Somewhat clearly", "score": 2},
+      {"text": "Vaguely", "score": 3},
+      {"text": "I have no clear goals", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you tell yourself 'I will do it later' and then forget or run out of time?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "How do you typically feel after finishing a study session?",
+    "options": [
+      {"text": "Accomplished and satisfied", "score": 0},
+      {"text": "Mostly satisfied", "score": 1},
+      {"text": "Neutral", "score": 2},
+      {"text": "Slightly regretful I didn't do more", "score": 3},
+      {"text": "Guilty and unproductive", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you use a timer or productivity technique (e.g. Pomodoro) to stay focused?",
+    "options": [
+      {"text": "Always", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you feel that studying is meaningful and worth your time?",
+    "options": [
+      {"text": "Always", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you miss lectures or study sessions because you lost track of time or forgot?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "How well do you prioritize academic tasks over leisure activities?",
+    "options": [
+      {"text": "Very well", "score": 0},
+      {"text": "Fairly well", "score": 1},
+      {"text": "With some difficulty", "score": 2},
+      {"text": "With great difficulty", "score": 3},
+      {"text": "I always choose leisure first", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you feel energized and ready to study at the start of the day?",
+    "options": [
+      {"text": "Always", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you feel mentally prepared when an exam or submission is approaching?",
+    "options": [
+      {"text": "Always", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  },
+  {
+    "question": "How often do you break large tasks into smaller, manageable steps?",
+    "options": [
+      {"text": "Always", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  }
+]
